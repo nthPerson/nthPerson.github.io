@@ -1,5 +1,3 @@
-# Web Exercise 1 Website: nthPerson.GitHub.io
-
 # UC Irvine Machine Learning Repository
 The [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/?utm_source=chatgpt.com) is one of the **most popular and respected resources for datasets** in the field of machine learning and data science. It was created in 1987 by PhD student David Aha as an FTP archive at the University of California, Irvine, and serves to this day as a standard reference for students, academics, and machine learning practitioners.
 
@@ -20,4 +18,4 @@ This book forcuses on **Bayesian statistics** and **probablilistic programming**
 
 I am particularly interested in this book due to its unique requirements for consuming the book's content. To [read the book](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers#contributions-and-thanks), users must first clone the book's [GitHub repository](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers), install Jupyter (if the reader would like to run the provided code and try the practice questions), and download the ipynb files to their local machine. Besides the delightfully interactive requirements to read and interact with it, this book interests me because **Bayesian methods are becoming increasingly important** in data science for handling uncertainty in data and decision making. The book also **aligns with the goals of this course** by emphasizing practical, code-based learning that can be directly applied to read datasets and projects. Its open-source, interactive format makes it easy to experiment with examples and integrate the concepts into my own work.
 
-nthPerson.github.io
+Web Exercise 1 Website: nthPerson.GitHub.io
