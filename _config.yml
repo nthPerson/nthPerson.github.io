@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Robert Ashe's (aka nthPerson) Homepage
-description: GitHub Pages site created for BDA 594
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+title: Web Exercise 1 - Introduction to GitHub and Online Data Science Resources
+description: GitHub Pages website created for BDA 594
